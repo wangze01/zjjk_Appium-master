@@ -1,0 +1,26 @@
+2021-07-28 14:59:29,027 - App_actions.py[line:32] - App_actions - INFO - 初始化设备成功
+2021-07-28 14:59:33,027 - case_01.py[line:28] - case_01 - INFO - 开始执行测试用例:case01
+2021-07-28 14:59:33,069 - case_01.py[line:33] - case_01 - INFO - 执行case01_步骤:切换到密码登陆
+2021-07-28 14:59:34,079 - App_actions.py[line:62] - App_actions - ERROR - 点击元素(com.ak.zanjiadoctor:id/tv_switch)失败：Message: An element could not be located on the page using the given search parameters.
+
+2021-07-28 14:59:38,080 - case_01.py[line:33] - case_01 - INFO - 执行case01_步骤:输入账号
+2021-07-28 14:59:38,581 - App_actions.py[line:69] - App_actions - ERROR - 输入内容失败：Message: An element could not be located on the page using the given search parameters.
+
+2021-07-28 14:59:42,614 - case_01.py[line:33] - case_01 - INFO - 执行case01_步骤:输入密码
+2021-07-28 14:59:43,410 - App_actions.py[line:69] - App_actions - ERROR - 输入内容失败：Message: An element could not be located on the page using the given search parameters.
+
+2021-07-28 14:59:47,442 - case_01.py[line:33] - case_01 - INFO - 执行case01_步骤:点击登陆
+2021-07-28 14:59:47,806 - App_actions.py[line:62] - App_actions - ERROR - 点击元素(com.ak.zanjiadoctor:id/iv_confirm)失败：Message: An element could not be located on the page using the given search parameters.
+
+2021-07-28 15:00:02,807 - case_01.py[line:33] - case_01 - INFO - 执行case01_步骤:取消弹窗
+2021-07-28 15:00:03,459 - App_actions.py[line:62] - App_actions - ERROR - 点击元素(com.ak.zanjiadoctor:id/btn_n)失败：Message: An element could not be located on the page using the given search parameters.
+
+2021-07-28 15:00:18,459 - case_01.py[line:33] - case_01 - INFO - 执行case01_步骤:选择居民
+2021-07-28 15:00:35,854 - case_01.py[line:33] - case_01 - INFO - 执行case01_步骤:具体居民
+2021-07-28 15:00:36,169 - App_actions.py[line:62] - App_actions - ERROR - 点击元素(//android.widget.TextView[@text="李子园"])失败：Message: An element could not be located on the page using the given search parameters.
+
+2021-07-28 15:01:01,169 - case_01.py[line:33] - case_01 - INFO - 执行case01_步骤:去履约
+2021-07-28 15:01:05,177 - App_actions.py[line:62] - App_actions - ERROR - 点击元素(//android.widget.TextView[@text="去履约"])失败：HTTPConnectionPool(host='127.0.0.1', port=4723): Max retries exceeded with url: /wd/hub/session/ef189289-6418-4c92-a624-46c77f8473bc/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0E49EEE0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2021-07-28 15:01:30,177 - case_01.py[line:33] - case_01 - INFO - 执行case01_步骤:电话服务
+2021-07-28 15:01:34,184 - App_actions.py[line:62] - App_actions - ERROR - 点击元素(//android.view.View[@text="电话服务"])失败：HTTPConnectionPool(host='127.0.0.1', port=4723): Max retries exceeded with url: /wd/hub/session/ef189289-6418-4c92-a624-46c77f8473bc/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0E493D90>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2021-07-28 15:02:03,192 - App_actions.py[line:102] - App_actions - ERROR - 当前屏幕截图失败：HTTPConnectionPool(host='127.0.0.1', port=4723): Max retries exceeded with url: /wd/hub/session/ef189289-6418-4c92-a624-46c77f8473bc/screenshot (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0E4935C8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))

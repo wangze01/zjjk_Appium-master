@@ -1,0 +1,5 @@
+2021-07-28 15:04:27,102 - App_actions.py[line:34] - App_actions - ERROR - 设备连接失败：HTTPConnectionPool(host='127.0.0.1', port=4723): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0E6C6970>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2021-07-28 15:04:31,144 - App_actions.py[line:62] - App_actions - ERROR - 点击元素(com.ak.zanjiadoctor:id/tv_switch)失败：'Driver' object has no attribute 'driver'
+2021-07-28 15:04:35,145 - App_actions.py[line:69] - App_actions - ERROR - 输入内容失败：'Driver' object has no attribute 'driver'
+2021-07-28 15:04:39,176 - App_actions.py[line:69] - App_actions - ERROR - 输入内容失败：'Driver' object has no attribute 'driver'
+2021-07-28 15:04:43,208 - App_actions.py[line:62] - App_actions - ERROR - 点击元素(com.ak.zanjiadoctor:id/iv_confirm)失败：'Driver' object has no attribute 'driver'

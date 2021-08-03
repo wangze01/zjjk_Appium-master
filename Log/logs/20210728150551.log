@@ -1,0 +1,5 @@
+2021-07-28 15:09:32,216 - App_actions.py[line:32] - App_actions - INFO - 初始化设备成功
+2021-07-28 15:17:27,618 - App_actions.py[line:62] - App_actions - ERROR - 点击元素(//android.widget.TextView[@text="居民"])失败：Message: A session is either terminated or not started
+
+2021-07-28 15:18:47,941 - App_actions.py[line:62] - App_actions - ERROR - 点击元素(//android.widget.TextView[@text="李子园"])失败：Message: A session is either terminated or not started
+

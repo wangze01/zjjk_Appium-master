@@ -1,0 +1,12 @@
+MIX_2:
+  platformName: "Android"
+  platformVersion: "7.1.1"
+  deviceName: "192.168.26.163:5555"
+  appPackage: "com.ak.zanjiadoctor"
+  appActivity: "com.ak.zanjiahealth.view.IndexActivity"
+  unicodeKeyboard: True
+  resetKeyboard: True
+  noReset: True
+  autoAcceptAlerts: True
+  newCommandTimeout: 6000
+

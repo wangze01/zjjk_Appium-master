@@ -1,0 +1,5 @@
+2021-07-28 15:20:42,693 - App_actions.py[line:32] - App_actions - INFO - 初始化设备成功
+2021-07-28 15:23:31,868 - App_actions.py[line:62] - App_actions - ERROR - 点击元素(//android.widget.TextView[@text="居民"])失败：Message: An unknown server-side error occurred while processing the command. Original error: UiAUtomator shut down unexpectedly
+
+2021-07-28 15:23:46,876 - App_actions.py[line:62] - App_actions - ERROR - 点击元素(//android.widget.TextView[@text="李子园"])失败：Message: A session is either terminated or not started
+

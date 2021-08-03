@@ -1,0 +1,71 @@
+
+case01:
+#  切换到密码登陆:
+#    find_type: id
+#    element_info: com.ak.zanjiadoctor:id/tv_switch
+#    operate_type: click
+#    time: 4
+#    text:
+#
+#  输入账号:
+#      find_type: id
+#      element_info: com.ak.zanjiadoctor:id/et_tel
+#      operate_type: input
+#      time: 4
+#      text: 18533211011
+#
+#  输入密码:
+#      find_type: id
+#      element_info: com.ak.zanjiadoctor:id/et_verification
+#      operate_type: input
+#      time: 4
+#      text: 123456
+#
+#  点击登陆:
+#    find_type: id
+#    element_info: com.ak.zanjiadoctor:id/iv_confirm
+#    operate_type: click
+#    time: 15
+#    text:
+#
+#  取消弹窗:
+#    find_type: id
+#    element_info: com.ak.zanjiadoctor:id/btn_n
+#    operate_type: click
+#    time: 15
+#    text:
+
+  选择居民:
+    find_type: xpath
+    element_info: //android.widget.TextView[@text="居民"]
+    operate_type: click
+    time: 15
+    text:
+
+  具体居民:
+    find_type: xpath
+    element_info: //android.widget.TextView[@text="李子园"]
+    operate_type: click
+    time: 25
+    text:
+
+  去履约:
+    find_type: xpath
+    element_info: //android.widget.TextView[@text="去履约"]
+    operate_type: click
+    time: 25
+    text:
+
+  电话服务:
+      find_type: xpath
+      element_info: //android.view.View[@text="电话服务"]
+      operate_type: click
+      time: 25
+      text:
+
+#  选择履约表单:
+#      find_type: id
+#      element_info: com.ak.zanjiadoctor:id/btn_p
+#      operate_type: click
+#      time: 4
+#      text:

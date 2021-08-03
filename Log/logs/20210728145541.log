@@ -1,0 +1,13 @@
+2021-07-28 14:56:00,148 - App_actions.py[line:32] - App_actions - INFO - 初始化设备成功
+2021-07-28 14:56:04,914 - App_actions.py[line:62] - App_actions - ERROR - 点击元素(com.ak.zanjiadoctor:id/tv_switch)失败：Message: An element could not be located on the page using the given search parameters.
+
+2021-07-28 14:56:09,544 - App_actions.py[line:69] - App_actions - ERROR - 输入内容失败：Message: An element could not be located on the page using the given search parameters.
+
+2021-07-28 14:56:13,965 - App_actions.py[line:69] - App_actions - ERROR - 输入内容失败：Message: An element could not be located on the page using the given search parameters.
+
+2021-07-28 14:56:18,335 - App_actions.py[line:62] - App_actions - ERROR - 点击元素(com.ak.zanjiadoctor:id/iv_confirm)失败：Message: An element could not be located on the page using the given search parameters.
+
+2021-07-28 14:56:33,786 - App_actions.py[line:62] - App_actions - ERROR - 点击元素(com.ak.zanjiadoctor:id/btn_n)失败：Message: An element could not be located on the page using the given search parameters.
+
+2021-07-28 14:56:48,975 - App_actions.py[line:62] - App_actions - ERROR - 点击元素(//android.widget.TextView[@text="居民"])失败：Message: An element could not be located on the page using the given search parameters.
+
