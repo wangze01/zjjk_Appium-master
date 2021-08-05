@@ -1,5 +1,3 @@
-# WebUIFranmework
-
 基于Python+appium+unittest的关键字驱动客户端UI自动化测试框架
 
 Action
